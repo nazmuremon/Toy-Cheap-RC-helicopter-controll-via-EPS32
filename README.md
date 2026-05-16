@@ -359,7 +359,6 @@ Possible additions:
 Built for DIY RC enthusiast projects.
 Uses ESP-IDF and Arduino core libraries.
 
----
 
 ## Support
 
@@ -375,6 +374,8 @@ For issues:
 **Status:** ✅ Production Ready  
 **Version:** 1.0  
 **Last Updated:** 2026-05-15
-#   T o y - C h e a p - R C - h e l i c o p t e r - c o n t r o l l - v i a - E P S 3 2  
- #   T o y - C h e a p - R C - h e l i c o p t e r - c o n t r o l l - v i a - E P S 3 2  
+#   T o y - C h e a p - R C - h e l i c o p t e r - c o n t r o l l - v i a - E P S 3 2 
+ 
+ #   T o y - C h e a p - R C - h e l i c o p t e r - c o n t r o l l - v i a - E P S 3 2 
+ 
  
